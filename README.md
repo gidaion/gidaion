@@ -18,16 +18,15 @@
 
 ## 🧭 Como eu trabalho
 
-```mermaid
-flowchart LR
-  A[🔍 Entender] --> B[🧩 Modelar] --> C[🏗️ Arquitetar] --> D[💻 Construir]
-  D --> E[⚙️ Automatizar] --> F[🔌 Integrar] --> G[📊 Medir] --> H[🔁 Melhorar]
-  H -.-> A
-```
+<p align="center">
+  <b>🔍 Entender</b> → <b>🧩 Modelar</b> → <b>🏗️ Arquitetar</b> → <b>💻 Construir</b><br/>
+  → <b>⚙️ Automatizar</b> → <b>🔌 Integrar</b> → <b>📊 Medir</b> → <b>🔁 Melhorar</b>
+</p>
 
 Antes de implementar, pergunto: **este processo deveria mesmo funcionar assim?** De onde vem o dado, quem depende dele, como medir e o que acontece quando falhar.
 
 > 💡 *Registrar o dado uma vez e reutilizá-lo em todo processo.*
+>
 > 💡 *Usar o modelo de IA mais barato capaz de resolver a tarefa corretamente.*
 
 ---
@@ -106,13 +105,6 @@ Apps de timesheet e relatórios, velocímetro de entregas, planejamento com IA, 
 🌎 Português (nativo) · Inglês (profissional) · Chinês (básico)
 
 ---
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gidaion/gidaion/output/github-snake-dark.svg" />
-    <img alt="Cobrinha comendo o gráfico de contribuições" src="https://raw.githubusercontent.com/gidaion/gidaion/output/github-snake.svg" />
-  </picture>
-</p>
 
 ## 📊 Estatísticas
 
