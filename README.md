@@ -117,20 +117,7 @@ Apps de timesheet e relatórios, velocímetro de entregas, planejamento com IA, 
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gidaion&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&locale=pt-br" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gidaion&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" height="165"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=gidaion&theme=tokyonight&hide_border=true&locale=pt_BR" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gidaion&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gidaion&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=7"/>
 </p>
 
 <p align="center">
